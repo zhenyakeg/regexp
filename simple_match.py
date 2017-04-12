@@ -58,7 +58,7 @@ REGEXP_6 = '^(Ok){3}$|^(ab){3}$'
 # + Aaa aaa aaa
 # - A
 # - aaa A aaa
-REGEXP_7 = '^[aA]..\ .[aA].\ ..[aA]$'
+REGEXP_7 = '^[aA].. .[aA]. ..[aA]$'
 
 # + abc
 # + abc03
